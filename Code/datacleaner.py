@@ -4,7 +4,7 @@ import time
 
 start = time.time()
 
-file = pandas.read_csv("data.csv",low_memory=False)
+file = pandas.read_csv("../Data/data.csv",low_memory=False)
 
 file.drop(file[file['Location'].isnull()].index, inplace = True)
 file.drop(file[file['Location']== "(0.0, 0.0)"].index, inplace = True)
@@ -19,7 +19,7 @@ print(file.dtypes)
 
 file = file[['Date', 'Time', 'Violation', 'Street', 'Location',"Full Fine","Discounted Fine"]]
 
-file.to_csv("out.csv",index=False)
+file.to_csv("../Data/out.csv",index=False)
 
 end = time.time()
 
