@@ -19,7 +19,6 @@ print(file.dtypes)
 
 file = file[['Date', 'Time', 'Violation', 'Street', 'Location',"Full Fine","Discounted Fine"]]
 
-
 file.to_csv("out.csv",index=False)
 
 end = time.time()
