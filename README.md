@@ -16,12 +16,26 @@ In many places, the number of parking violations are growing as the population a
 # Execution
 
 ## To Run Preprocessing
+TODO
 
 ## To Run the Apriori Algorithm
+The input file must be named "in" and be of file type ".csv" ("in.csv")
+
+Run the apriori.py script as follows:
+```
+python3 apriori.py
+```
+It will prompt for both minimum support and minimum confidence.
+
+It will then run (it will take some time).
+
+The final result will be a text file called "out.txt", which will contain all frequent itemsets.
 
 ## To Run the K-Modes Algorithm
+TODO
 
 ## To Run Clustering
+TODO
 
 
 
