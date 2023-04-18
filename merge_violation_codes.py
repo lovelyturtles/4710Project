@@ -21,6 +21,9 @@ for row in range(len(df['Violation Code'])):
         clean_code = clean_code.lstrip('0')
         clean_violation.loc[row] = clean_code
 
+    elif code[0] == '0':
+        clean_violation.loc[row] = code[1:]
+        
     else:
         clean_violation.loc[row] = code
 
