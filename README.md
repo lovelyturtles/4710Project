@@ -22,17 +22,17 @@ The repository is split into 3 folders.
 # Installation
 
 To run the code in the repository, you must install the following libraries:
-- Python 3
-- jupyter_notebook
-- chart_studio
-- cufflinks
-- numpy
-- pandas
-- efficient_apriori
-- matplotlib
-- seaborn
-- scikit-learn
-- kmodes
+- [Python 3](https://www.python.org/downloads/)
+- [jupyter_notebook](https://jupyter.org/install)
+- [chart_studio](https://pypi.org/project/chart-studio/)
+- [cufflinks](https://github.com/santosjorge/cufflinks)
+- [numpy](https://numpy.org/install/)
+- [pandas](https://pandas.pydata.org/getting_started.html)
+- [efficient_apriori](https://pypi.org/project/efficient-apriori/)
+- [matplotlib](https://matplotlib.org/stable/users/installing/index.html)
+- [seaborn](https://seaborn.pydata.org/installing.html)
+- [scikit-learn](https://scikit-learn.org/stable/install.html)
+- [kmodes](https://pypi.org/project/kmodes/)
 
 # Execution
 All the code to run the following is found in the 'Code' folder
@@ -61,17 +61,17 @@ Note: All of the following should be run after the preprocessing steps and the d
 ## To run the Apriori Algorithm
 1. Open the 'apriori.ipynb' and 'aprioriwithMidnight.ipynb' and run all for both
 2. The results can be found in the 'Results' folder:
-- 'apriori_results.txt' for the 'apriori.ipynb' results
-- 'apriori_with_midnight_results.txt' for the 'aprioriwithMidnight.ipynb' results
+    - 'apriori_results.txt' for the 'apriori.ipynb' results
+    - 'apriori_with_midnight_results.txt' for the 'aprioriwithMidnight.ipynb' results
 
 
 ## To run the KModes Algorithm
 1. Open the 'kModes.ipynb' and 'kModeswithMidnight.ipynb' and run all for both
 2. The results can be found in the 'Results' folder:
-- 'K-Modes_Cluster_Info.csv' for the 'kModes.ipynb' results
-- 'K-Modes_Cluster_Info2.csv' for the 'kModes.ipynb' results
-- 'K-Modes_Cluster_Info_midnight.csv' for the 'kModeswithMidnight.ipynb' results
-- 'K-Modes_Cluster_Info_midnight2.csv' for the 'kModeswithMidnight.ipynb' results
+    - 'K-Modes_Cluster_Info.csv' for the 'kModes.ipynb' results
+    - 'K-Modes_Cluster_Info2.csv' for the 'kModes.ipynb' results
+    - 'K-Modes_Cluster_Info_midnight.csv' for the 'kModeswithMidnight.ipynb' results
+    - 'K-Modes_Cluster_Info_midnight2.csv' for the 'kModeswithMidnight.ipynb' results
 
 
 ## To run the DB Scan
