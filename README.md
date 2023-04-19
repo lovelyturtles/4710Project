@@ -1,7 +1,7 @@
 # COMP 4170 Group 4: Analysis of Parking Violations in Winnipeg 
 
 # Disclaimers
-TODO
+This is a class project for the University of Manitoba's COMP 4710 Data Mining Course. The goal of this project was to use the knowledge mining algorithm learned in class to start research and help improve exisiting studies.
 
 # Abstract
 
@@ -45,5 +45,12 @@ TODO
 
 
 # CREDITS
-TODO
+This Project was conducted by the following University of Manitoba students:
 
+Adrien Dinzey
+
+Agape Seo
+
+John Baptista
+
+Susie Kihaile
