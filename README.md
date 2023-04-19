@@ -48,6 +48,9 @@ TODO
 This Project was conducted by the following University of Manitoba students:
 
 Adrien Dinzey
+
 Agape Seo
+
 John Baptista
+
 Susie Kihaile
