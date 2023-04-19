@@ -13,7 +13,7 @@ In many places, the number of parking violations are growing as the population a
 ## Pre-requisites
 - Python 3
   - For data_cleaner, data_cleaner_2, apriori.py
-- Jupiter Notebook
+- Jupyter Notebook
 -   For other algorithms
 - numpy
 - pandas
