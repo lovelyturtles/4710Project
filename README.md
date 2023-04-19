@@ -22,7 +22,11 @@ In many places, the number of parking violations are growing as the population a
 # Execution
 
 ## To Run Preprocessing
-TODO
+run:
+`preprocessor.ipynb` -> `exploration.ipynb` -> `mergeCodes.ipynb` to generate `midnightCleanedData.csv` and `noMidnightCleanedData.csv`
+
+run: 
+`dataSampler.ipynb` to generate `cleanedSample.csv` and `cleanedSampleNoMidnight.csv` data samples
 
 ## To Run the Apriori Algorithm
 The input file must be named "in" and be of file type ".csv" ("in.csv")
