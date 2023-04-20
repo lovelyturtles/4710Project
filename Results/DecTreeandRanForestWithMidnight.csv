@@ -1,0 +1,5 @@
+Locations/No Locations,Technique,max_depth,min_samples_leaf,"min_samples,split",n_estimators,Accuracy Score
+With Locations,Decision Tree,8,2,10,N/A,0.43795
+With Locations,Random Forest,8,1,10,100,0.31265
+Without Locations,Decision Tree,8,1,2,N/A,0.34255
+Without Locations,Random Forest,8,4,5,200,0.31265
