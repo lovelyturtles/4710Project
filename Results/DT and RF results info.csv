@@ -1,0 +1,7 @@
+﻿Result,Decision Tree,Random Forest
+max_depth,8,8
+min_samples_leaf,2,2
+min_samples_split,5,10
+n_estimators,,100
+accuracy,0.51005,0.31535
+Note: includes time ranges but excludes data from 2021 onwards,,

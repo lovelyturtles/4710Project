@@ -1,0 +1,10 @@
+Day,Violation Code,Street,Time Range,Cluster,Count
+Sunday,6,William AVE,Evening (5:00pm-11:00pm),0,15413
+Tuesday,1,William AVE,Daytime (9:00am-3:30pm),1,20866
+Thursday,1,Hargrave ST,Daytime (9:00am-3:30pm),2,16552
+Monday,5,Furby ST,Daytime (9:00am-3:30pm),3,10963
+Wednesday,1,Bannatyne AVE,Daytime (9:00am-3:30pm),4,12702
+Friday,1,McDermot AVE,Daytime (9:00am-3:30pm),5,11879
+Saturday,6,Rorie ST,Daytime (9:00am-3:30pm),6,1971
+Wednesday,39,River AVE,Overnight (11:00pm-5:30am),7,7025
+Saturday,39,William AVE,Overnight (11:00pm-5:30am),8,2629
