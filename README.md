@@ -79,10 +79,6 @@ Note: All of the following should be run after the preprocessing steps and the d
 2. The results can be found in the jupyter notebook
 
 
-## To run the Decision Tree
-1. Open the 'decisionTree.ipynb' and run all
-2. The results can be found in the 'Results' folder as 'DT and RF results info.csv'
-
-
-## To run the Random Forest
-TO DO
+## To run Decision Tree and Random Forest
+1. Open 'decisionTree.ipynb' and 'decisionTreewithMidnight.ipynb' and run all for both
+2. The results can be found in the 'Results' folder as 'DecTreeandRanForestNoMidnight.csv' and 'DecTreeandRanForestWithMidnight.csv'
