@@ -68,15 +68,15 @@ Note: All of the following should be run after the preprocessing steps and the d
 ## To run the KModes Algorithm
 1. Open the 'kModes.ipynb' and 'kModeswithMidnight.ipynb' and run all for both
 2. The results can be found in the 'Results' folder:
-    - 'K-Modes_Cluster_Info.csv' for the 'kModes.ipynb' results
-    - 'K-Modes_Cluster_Info2.csv' for the 'kModes.ipynb' results
-    - 'K-Modes_Cluster_Info_midnight.csv' for the 'kModeswithMidnight.ipynb' results
-    - 'K-Modes_Cluster_Info_midnight2.csv' for the 'kModeswithMidnight.ipynb' results
+    - 'K-Modes_Cluster_Info.csv' for the 'kModes.ipynb' results on the 2016-2020 data with the locational features. 
+    - 'K-Modes_Cluster_Info2.csv' for the 'kModes.ipynb' results on the 2016-2020 data without the locational features.
+    - 'K-Modes_Cluster_Info_midnight.csv' for the 'kModeswithMidnight.ipynb' results on the 2016-2023 data with the locational features.
+    - 'K-Modes_Cluster_Info_midnight2.csv' for the 'kModeswithMidnight.ipynb' results on the 2016-2023 data without the locational features.
 
 
 ## To run the DB Scan
 1. Open the 'dbscan.ipynb' and 'dbscanwithMidnight.ipynb' and run all for both
-2. The results can be found in the jupyter notebook
+2. The results can be found in the 'Results' folder as
 
 
 ## To run Decision Tree and Random Forest
